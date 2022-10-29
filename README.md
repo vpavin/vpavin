@@ -9,4 +9,11 @@ I'm a passionate professional with experience in the most diverse areas of IT, f
 
 Speaking of which, gaming, music, and technology are my favorite things when I'm not on my work laptop. If I need something that I didn't find, I develop or 3D print it.
 
-Feel free to invite me to a cup of coffee. I'm always open to a good chat.
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=vpavin&show_icons=true&theme=tokyonight&hide_border&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpavin&layout=compact&langs_count=5&theme=tokyonight&hide_border"/>
+</div>
+
+<hr />
+
+Feel free to invite me to a :coffee:. I'm always open to a good chat.
