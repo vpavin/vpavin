@@ -1,6 +1,6 @@
 # Vinicius (Vini) Pavin
 
-Engineering Manager @ Zenjob
+Technology afficionado currenly working as Principal Engineer
 
 [![Linkedin Badge](https://img.shields.io/badge/-Vinicius%20Pavin-495C83?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vpavin/)](https://www.linkedin.com/in/vpavin/)
 [![Site Badge](https://img.shields.io/badge/-vinipavin.com.br-495C83?style=flat-square&logo=GoogleChrome&logoColor=white&link=https://vinipavin.com.br/)](https://vinipavin.com.br/)
